@@ -1,0 +1,65 @@
+\begin{thebibliography}{10}
+
+\bibitem{bailon2010aspect}
+J.~Bailon-Cuba, M.~S. Emran, and J.~Schumacher.
+\newblock Aspect ratio dependence of heat transfer and large-scale flow in
+  turbulent convection.
+\newblock {\em Journal of Fluid Mechanics}, 655:152--173, 7 2010.
+
+\bibitem{dupuits2007breakdown}
+Ronald du~Puits, Christian Resagk, and Andr{\'e} Thess.
+\newblock Breakdown of wind in turbulent thermal convection.
+\newblock {\em Physical Review E}, 75(1):016302, 2007.
+
+\bibitem{grossmann2000scaling}
+Siegfried Grossmann and Detlef Lohse.
+\newblock Scaling in thermal convection: a unifying theory.
+\newblock {\em Journal of Fluid Mechanics}, 407:27--56, 2000.
+
+\bibitem{grossmann2001thermal}
+Siegfried Grossmann and Detlef Lohse.
+\newblock Thermal convection for large prandtl numbers.
+\newblock {\em Physical Review Letters}, 86(15):3316, 2001.
+
+\bibitem{grossmann2002prandtl}
+Siegfried Grossmann and Detlef Lohse.
+\newblock Prandtl and rayleigh number dependence of the reynolds number in
+  turbulent thermal convection.
+\newblock {\em Physical Review E}, 66(1):016305, 2002.
+
+\bibitem{grossmann2003geometry}
+Siegfried Grossmann and Detlef Lohse.
+\newblock On geometry effects in rayleigh--b{\'e}nard convection.
+\newblock {\em Journal of Fluid Mechanics}, 486:105--114, 2003.
+
+\bibitem{grossmann2004fluctuations}
+Siegfried Grossmann and Detlef Lohse.
+\newblock Fluctuations in turbulent rayleigh--b{\'e}nard convection: the role
+  of plumes.
+\newblock {\em Physics of Fluids}, 16(12):4462--4472, 2004.
+
+\bibitem{kraichnan1962turbulent}
+Robert~H Kraichnan.
+\newblock Turbulent thermal convection at arbitrary prandtl number.
+\newblock {\em The Physics of Fluids}, 5(11):1374--1389, 1962.
+
+\bibitem{sakievich2016large}
+PJ~Sakievich, YT~Peet, and RJ~Adrian.
+\newblock Large-scale thermal motions of turbulent rayleigh--b{\'e}nard
+  convection in a wide aspect-ratio cylindrical domain.
+\newblock {\em International Journal of Heat and Fluid Flow}, 61:183--196,
+  2016.
+
+\bibitem{stevens2016superstructures}
+Richard Stevens, Roberto Verzicco, and Detlef Lohse.
+\newblock Superstructures in rayleigh-benard convection.
+\newblock In {\em APS Meeting Abstracts}, 2016.
+
+\bibitem{stevens2013unifying}
+Richard~JAM Stevens, Erwin~P van~der Poel, Siegfried Grossmann, and Detlef
+  Lohse.
+\newblock The unifying theory of scaling in thermal convection: the updated
+  prefactors.
+\newblock {\em Journal of fluid mechanics}, 730:295--308, 2013.
+
+\end{thebibliography}

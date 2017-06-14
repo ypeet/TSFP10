@@ -1,0 +1,150 @@
+\begin{thebibliography}{29}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[Adrian {\em et~al.\/}(1986)Adrian, Ferreira \&
+  Boberg]{adrian1986turbulent}
+Adrian, R.~J., Ferreira, R. T. D.~S. \& Boberg, T. 1986 Turbulent thermal
+  convection in wide horizontal fluid layers. {\em Experiments in Fluids\/}
+  {\bf 4}, 121--141.
+
+\bibitem[Ahlers {\em et~al.\/}(2009)Ahlers, Grossmann \& Lohse]{ahlers2009heat}
+Ahlers, Guenter, Grossmann, Siegfried \& Lohse, Detlef 2009 Heat transfer and
+  large scale dynamics in turbulent rayleigh-b{\'e}nard convection. {\em
+  Reviews of modern physics\/} {\bf 81}~(2), 503.
+
+\bibitem[Bailon-Cuba {\em et~al.\/}(2010)Bailon-Cuba, Emran \&
+  Schumacher]{bailon2010aspect}
+Bailon-Cuba, J., Emran, M.~S. \& Schumacher, J. 2010 Aspect ratio dependence of
+  heat transfer and large-scale flow in turbulent convection. {\em Journal of
+  Fluid Mechanics\/} {\bf 655}, 152--173.
+
+\bibitem[Bodenschatz {\em et~al.\/}(2000)Bodenschatz, Pesch \&
+  Ahlers]{bodenschatz2000recent}
+Bodenschatz, Eberhard, Pesch, Werner \& Ahlers, Guenter 2000 Recent
+  developments in rayleigh-b{\'e}nard convection. {\em Annual review of fluid
+  mechanics\/} {\bf 32}~(1), 709--778.
+
+\bibitem[Busse(1978)]{busse1978non}
+Busse, FH 1978 Non-linear properties of thermal convection. {\em Reports on
+  Progress in Physics\/} {\bf 41}~(12), 1929.
+
+\bibitem[Busse \& Whitehead(1974)]{busse1974oscillatory}
+Busse, FH \& Whitehead, JA 1974 Oscillatory and collective instabilities in
+  large prandtl number convection. {\em Journal of Fluid Mechanics\/} {\bf
+  66}~(01), 67--79.
+
+\bibitem[Busse \& Whitehead(1971)]{busse1971instabilities}
+Busse, F~He \& Whitehead, JA 1971 Instabilities of convection rolls in a high
+  prandtl number fluid. {\em Journal of Fluid Mechanics\/} {\bf 47}~(02),
+  305--320.
+
+\bibitem[Carati {\em et~al.\/}(1996)Carati, Wray \& Cabot]{carati1996ensemble}
+Carati, D., Wray, A. \& Cabot, W. 1996 Ensemble averaged dynamic modeling.
+  {Center for Turbulent Research, Proceedings of the Summer Program}.
+
+\bibitem[Castaing {\em et~al.\/}(1989)Castaing, Gunaratne, Heslot, Kadanoff,
+  Libchaber, Thomae, Wu, Zaleski \& Zanetti]{castaing1989scaling}
+Castaing, Bernard, Gunaratne, Gemunu, Heslot, Fran{\c{c}}ois, Kadanoff, Leo,
+  Libchaber, Albert, Thomae, Stefan, Wu, Xiao-Zhong, Zaleski, St{\'e}phane \&
+  Zanetti, Gianluigi 1989 Scaling of hard thermal turbulence in
+  rayleigh-b{\'e}nard convection. {\em Journal of Fluid Mechanics\/} {\bf 204},
+  1--30.
+
+\bibitem[Chu \& Goldstein(1973)]{chu1973turbulent}
+Chu, TY \& Goldstein, RJ 1973 Turbulent convection in a horizontal layer of
+  water. {\em Journal of Fluid Mechanics\/} {\bf 60}~(01), 141--159.
+
+\bibitem[Coleman {\em et~al.\/}(2000)Coleman, Kim \&
+  Spalart]{coleman2000numerical}
+Coleman, G.~N., Kim, J. \& Spalart, P.~R. 2000 A numerical study of strained
+  three-dimensional wallbounded turbulence. {\em Journal of Fluid Mechanics\/}
+  {\bf 417}, 025112.
+
+\bibitem[Deardorff(1970)]{deardorff1970convective}
+Deardorff, James~W 1970 Convective velocity and temperature scales for the
+  unstable planetary boundary layer and for rayleigh convection. {\em Journal
+  of the Atmospheric Sciences\/} {\bf 27}~(8), 1211--1213.
+
+\bibitem[Fernandes(2001)]{fernandes2001spatial}
+Fernandes, R.~L. 2001 The spatial structure of turbulent rayleigh-benard
+  convection. PhD thesis, University of Illinois, Urbana, IL.
+
+\bibitem[Fernandes \& Adrian(2002)]{fernandes2002scaling}
+Fernandes, R.~L. \& Adrian, R.~J. 2002 Scaling of velocity and temperature
+  fluctuations in turbulent thermal convection. {\em Exp. Thermal Fluid
+  Science\/} {\bf 26}, 355--360.
+
+\bibitem[Fitzjarrald(1976)]{fitzjarrald1976experimental}
+Fitzjarrald, Daniel~E 1976 An experimental study of turbulent convection in
+  air. {\em Journal of Fluid Mechanics\/} {\bf 73}~(04), 693--719.
+
+\bibitem[Garon \& Goldstein(1973)]{garon1973velocity}
+Garon, AM \& Goldstein, RJ 1973 Velocity and heat transfer measurements in
+  thermal convection. {\em The Physics of Fluids\/} {\bf 16}~(11), 1818--1825.
+
+\bibitem[Grossmann \& Lohse(2000)]{grossmann2000scaling}
+Grossmann, Siegfried \& Lohse, Detlef 2000 Scaling in thermal convection: a
+  unifying theory. {\em Journal of Fluid Mechanics\/} {\bf 407}, 27--56.
+
+\bibitem[Grossmann \& Lohse(2001)]{grossmann2001thermal}
+Grossmann, Siegfried \& Lohse, Detlef 2001 Thermal convection for large prandtl
+  numbers. {\em Physical Review Letters\/} {\bf 86}~(15), 3316.
+
+\bibitem[Grossmann \& Lohse(2002)]{grossmann2002prandtl}
+Grossmann, Siegfried \& Lohse, Detlef 2002 Prandtl and rayleigh number
+  dependence of the reynolds number in turbulent thermal convection. {\em
+  Physical Review E\/} {\bf 66}~(1), 016305.
+
+\bibitem[Grossmann \& Lohse(2003)]{grossmann2003geometry}
+Grossmann, Siegfried \& Lohse, Detlef 2003 On geometry effects in
+  rayleigh--b{\'e}nard convection. {\em Journal of Fluid Mechanics\/} {\bf
+  486}, 105--114.
+
+\bibitem[Grossmann \& Lohse(2004)]{grossmann2004fluctuations}
+Grossmann, Siegfried \& Lohse, Detlef 2004 Fluctuations in turbulent
+  rayleigh--b{\'e}nard convection: the role of plumes. {\em Physics of
+  Fluids\/} {\bf 16}~(12), 4462--4472.
+
+\bibitem[Kraichnan(1962)]{kraichnan1962turbulent}
+Kraichnan, Robert~H 1962 Turbulent thermal convection at arbitrary prandtl
+  number. {\em The Physics of Fluids\/} {\bf 5}~(11), 1374--1389.
+
+\bibitem[Krishnamurti \& Howard(1981)]{krishnamurti1981large}
+Krishnamurti, Ruby \& Howard, Louis~N 1981 Large-scale flow generation in
+  turbulent convection. {\em Proceedings of the National Academy of Sciences\/}
+  {\bf 78}~(4).
+
+\bibitem[du~Puits {\em et~al.\/}(2007)du~Puits, Resagk \&
+  Thess]{dupuits2007breakdown}
+du~Puits, Ronald, Resagk, Christian \& Thess, Andr{\'e} 2007 Breakdown of wind
+  in turbulent thermal convection. {\em Physical Review E\/} {\bf 75}~(1),
+  016302.
+
+\bibitem[Sakievich {\em et~al.\/}(2016)Sakievich, Peet \&
+  Adrian]{sakievich2016large}
+Sakievich, PJ, Peet, YT \& Adrian, RJ 2016 Large-scale thermal motions of
+  turbulent rayleigh--b{\'e}nard convection in a wide aspect-ratio cylindrical
+  domain. {\em International Journal of Heat and Fluid Flow\/} {\bf 61},
+  183--196.
+
+\bibitem[Stevens {\em et~al.\/}(2016)Stevens, Verzicco \&
+  Lohse]{stevens2016superstructures}
+Stevens, Richard, Verzicco, Roberto \& Lohse, Detlef 2016 Superstructures in
+  rayleigh-benard convection. In {\em APS Meeting Abstracts\/}.
+
+\bibitem[Stevens {\em et~al.\/}(2013)Stevens, van~der Poel, Grossmann \&
+  Lohse]{stevens2013unifying}
+Stevens, Richard~JAM, van~der Poel, Erwin~P, Grossmann, Siegfried \& Lohse,
+  Detlef 2013 The unifying theory of scaling in thermal convection: the updated
+  prefactors. {\em Journal of fluid mechanics\/} {\bf 730}, 295--308.
+
+\bibitem[Willis \& Deardorff(1970)]{willis1970oscillatory}
+Willis, GE \& Deardorff, JW 1970 The oscillatory motions of rayleigh
+  convection. {\em Journal of Fluid Mechanics\/} {\bf 44}~(4), 661--672.
+
+\bibitem[Zocchi {\em et~al.\/}(1990)Zocchi, Moses \&
+  Libchaber]{zocchi1990coherent}
+Zocchi, G., Moses, E. \& Libchaber, A. 1990 Coherent structures in turbulent
+  convection, an experimental study. {\em Physica A\/} {\bf 166}, 387--407.
+
+\end{thebibliography}

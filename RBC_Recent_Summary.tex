@@ -1,0 +1,29 @@
+\documentclass[11pt]{article}
+
+\begin{document}
+
+Over the last two decades there has been a strong focus in the RBC community on understanding the scaling of the Nusselt number $(Nu)$ with respect to $Ra$ and $Pr$.  
+As the years have progressed ever larger $Ra$ have been reached in experimental and numerical studies with the goals of defining the scaling behavior and reaching the 'ultimate' state for turbulent convection that was first proposed by Kraichnan~\cite{kraichnan1962turbulent}.  
+Many different scaling laws for characterizing the heat transfer scaling in RBC systems (Ahlers \textit{et al.}, 2009), but the most seminal and enduring work over the last 20 years is the theory proposed by \cite{grossmann2000scaling}.   
+Grossmann and Lohse initial publication for a unifying theory to predict the scaling of the Reynolds number $(Re)$ and Nusselt number $(Nu)$ in turbulent RBC for any given $Pr$ and $Ra$ occurred in 2000 and has been improved by several additional publications~\cite{grossmann2001thermal,grossmann2002prandtl,grossmann2003geometry,grossmann2004fluctuations,stevens2013unifying}.  
+This theory relies on three main assumptions for the flow field: statistical stationarity, a single dominant velocity scale represented by a mean wind, and characteristic boundary layer thicknesses for respective kinematic and thermal fields. 
+  
+The majority of numerical and experimental studies have been performed in unit $\Gamma$ boxes and cylinders.  The 'wind of turbulence' concept is often used to describe the flow structure in these small $\Gamma$ domains.  
+The 'wind of turbulence' is characterized by a single roll-cell, or large-scale circulation (LSC), which spans the height and width of the cell, see figure~\ref{fig:1ar}.  This roll-cell creates boundary layers along the side walls and thermally active top and bottom plates which are well described by the Prandtl-Blasius profiles according to \cite{grossmann2000scaling}.  
+While the theory has proven remarkably robust in predicting the scaling of $Nu$, the underlying assumptions are not guaranteed to hold at larger $\Gamma$ where the large-scale structure of the flow departs from the concept of a single LSC.
+
+%For example, at a high enough $Ra$ the boundary layers within the system are expected to depart from the laminar, Prandtl-Blasuis description and move into a fully turbulent state (Ahlers \textit{et al.}, 2009).  
+%Recent work at low $Pr$ by \cite{schumacher2016transitional} clearly shows patches of where the boundary layers are transitioning to fully developed turbulent profiles.  
+%Extrapolation exercises align the work of \cite{schumacher2016transitional} experimental data from 'Uboot of G\:{o}ttingen' as outlined by \cite{ahlers2017ultimate}.  
+
+For example, \cite{dupuits2007breakdown} clearly showed that the 'wind of turbulence' breaks down as $\Gamma$ increases by performing experiments in air over a wide range of $\Gamma=1-11$ and $Ra=10^8-10^11$.
+This has been further corroborated by numerical studies of \cite{bailon2010aspect} ($Ra=10^7-10^9$ and $\Gamma=0.5-11.0$)  and \cite{sakievich2016large} ($Ra=10^8$ and $\Gamma=6.3$) that reveal complex multi-dimensional patterns for roll-cells in moderate $\Gamma$ containers with sidewalls.  
+In a recent conference \cite{stevens2016superstructures} presented a numerical study that outlined the spatial extent needed to support true horizontal homogeneity in a periodic domain at $Ra=10^8$ and $Pr=1$.  
+\cite{stevens2016superstructures} found that $\Gamma=32$ is required to support the full structure of the flow field, and that measured $Nu$ departs from the Grossmann-Lohse theory until $\Gamma>4$.  
+These variations from the standard picture of $\Gamma=1$ RBC show that the physics of thermal convection is not fully described by the unit $\Gamma$ case, and that there is a clear value in returning to large$\Gamma$ studies that were prevalent several decades ago.
+
+%return to wider aspect-ratio cases
+
+\bibliographystyle{plain}
+\bibliography{supercoherent}
+\end{document}
